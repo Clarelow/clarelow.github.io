@@ -11,7 +11,7 @@ url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
 /*5. Change the text color to: white*/
 .my-title {
     background-color: paleturquoise
-}
+    }
 /*6. Enlarge the font size to: 1.25rem*/
 /*7. Thicken the font weight to: 400*/
 /*8. Change the text color to: orangered*/
