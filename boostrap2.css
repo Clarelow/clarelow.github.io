@@ -13,14 +13,12 @@
 /*6. Center the div using margin*/
 /*7. Create an inner padding (space) of size: 1rem*/
 /*8. Create a shadow: 5px 5px 5px #aaa*/
-.my-container{
-    border: 1px solid #aaa;
+.my-container{border: 1px solid #aaa;
     background-color: white;
     max-width: 600px;
     margin: 10px auto;
     padding: 1rem;
-    box-shadow: 5px 5px 5px #aaa;
-}
+    box-shadow: 5px 5px 5px #aaa;}
 
 /*9.  Change text color to: orangered*/
 /*10. Change text decoration to: overline*/
